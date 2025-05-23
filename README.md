@@ -76,7 +76,7 @@ Over **20+ certifications** in cybersecurity tools, GRC, Linux, networking, and 
 - 🔹 Clean formatting with Markdown and PDF export  
 - 🔹 Updated regularly to match live learning progress
 
-📂 [View Résumé ›](https://github.com/CyberSecFale/cybersecurity-portfolio/blob/main/resume.md)
+📄 [Download Résumé PDF](https://github.com/CyberSecFale/resume.md/raw/main/Resume05212025321am.pdf)
 
 ---
 
