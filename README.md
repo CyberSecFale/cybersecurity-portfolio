@@ -1,71 +1,108 @@
-# cybersecurity-portfolio
-My cybersecurity portfolio showcasing skills in threat detection, SOC operations, and ethical tech solutions.
+# 🛡️ Cybersecurity Portfolio – Bobby Falero
 
-Cybersecurity Portfolio - Bobby Falero
+[![GitHub followers](https://img.shields.io/github/followers/CyberSecFale?style=social)](https://github.com/CyberSecFale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/c21bobbyfalero/)
+[![GitHub Stars](https://img.shields.io/github/stars/CyberSecFale?style=social)](https://github.com/CyberSecFale)
 
-Hi, I’m Bobby Falero, a Cybersecurity Analyst and Network Defender! 👋 I’m the Founder of FALE Network Solutions and currently building CyberWolf Lab to empower the next generation of cyber defenders.
-This portfolio showcases my skills in SOC operations, threat detection, and ethical tech solutions through hands-on projects completed during my cybersecurity certificate program. Check out my projects below to see my work in action!
+---
 
-About Me
+## 👋 Welcome
 
-Role: Cybersecurity Analyst & Defender  
-Focus: SOC operations, threat detection, and ethical tech  
-Projects: Founder of FALE Network Solutions | Building CyberWolf Lab  
-Connect: LinkedIn URL (https://www.linkedin.com/in/c21bobbyfalero)
+Hi! I’m **Bobby Falero**, a Cybersecurity Analyst and SOC Defender. I’m the founder of **FALE Network Solutions** and currently building **CyberWolf Lab**, a mission-focused cybersecurity lab designed to empower hands-on defenders like myself.
 
-Portfolio Projects
-Below are the projects I’ve completed as part of my cybersecurity certificate program. Each project demonstrates a key skill in the field.
-Professional Statement
+This portfolio showcases my real-world cybersecurity projects, including threat detection, log analysis, incident response simulations, Linux-based investigations, and SQL filtering. These were completed while earning industry certifications from Google, Coursera, and LinkedIn Learning.
 
-A statement outlining my goals and passion for cybersecurity.  
-View Statement
+---
 
-Security Audit
+## 🧭 Quick Navigation
 
-Conducted a security audit for a small business, identifying vulnerabilities and proposing solutions.  
-View Audit
+- [🔍 About Me](#about-me)
+- [🧪 Projects](#projects)
+- [📜 Certifications](#certifications)
+- [📄 Résumé](#résumé)
+- [📬 Contact](#contact)
 
-Network Structure and Security Analysis
+---
 
-Analyzed network structure and security for a simulated environment.  
-View Analysis
+## 🔍 About Me
 
-Linux Commands for File Permissions
+- 🧠 **Role**: Cybersecurity Analyst & Threat Defender  
+- 🛠️ **Focus**: SOC operations, threat detection, Blue Team techniques  
+- 🚀 **Founder**: FALE Network Solutions  
+- 🧪 **Lab**: Building CyberWolf Fortress – Blue Team home command center  
+- 🌎 **LinkedIn**: [@c21bobbyfalero](https://www.linkedin.com/in/c21bobbyfalero)
 
-Used Linux commands to manage file permissions in a security context.  
-View Commands
+> “Cybersecurity should be understandable, teachable, and ethical. I build systems that reflect those values.”
 
-SQL Filters for Security Queries
+---
 
-Applied filters to SQL queries to identify potential security issues.  
-View Queries
+## 🧪 Featured Projects
 
-Small Business Vulnerability Assessment
+These hands-on projects reflect real SOC-level skills used in entry-level analyst roles.
 
-Identified vulnerabilities for a small business and recommended mitigations.  
-View Assessment
+| Project | Summary |
+|--------|---------|
+| **🔐 Security Audit** | Performed a vulnerability review and remediation plan for a simulated small business. |
+| **🔎 Network Structure & Security Analysis** | Mapped LAN architecture, identified threat surfaces, and improved segmentation. |
+| **📁 Linux File Permissions** | Used `chmod`, `ls`, and `chown` to investigate and restrict improper access. |
+| **🧮 SQL Security Filters** | Applied SQL queries to isolate risky login patterns and account abuse scenarios. |
+| **📉 Vulnerability Assessment** | Evaluated risk profile and weaknesses for a fictional business environment. |
+| **📘 Incident Handler’s Journal** | Tracked a simulated phishing attack using real IR journaling techniques. |
+| **🔧 Resume + Professional Statement** | Built with Markdown & GitHub styling to reflect professionalism. |
 
-Incident Handler’s Journal
+🧪 [View the full project folder ›](https://github.com/CyberSecFale/cybersecurity-portfolio)
 
-Documented a simulated cybersecurity incident using an incident handler’s journal.  
-View Journal
+---
 
-Parsing a Text File in a Security Scenario
+## 📜 Certifications
 
-Imported and parsed a text file to extract security-relevant data.  
-View Script
+Over **20+ certifications** in cybersecurity tools, GRC, Linux, networking, and SOC workflows.
 
-Resume
+> ✅ Full visual collection:  
+> 🔗 [Cybersecurity-Certifications GitHub Repo ›](https://github.com/CyberSecFale/Cybersecurity-Certifications)
 
-My updated resume highlighting my cybersecurity skills and experience.  
-View Resume
+🏆 Highlights:
+- Google Cybersecurity Certificate (8 Courses)
+- Coursera (Google, Packt)
+- LinkedIn Learning (Network+, GRC, SIEM, AI for Cybersecurity, Web Security)
 
-Note: This portfolio is a work in progress. More details and project files will be added as I complete my certificate program.
-Skills
+---
 
-SOC Operations: Monitoring, incident response, and threat detection  
-Tools: Linux, SQL, Git, Markdown  
-Focus Areas: Ethical tech, network security, vulnerability assessment
+## 📄 Résumé
+
+- 🔹 Includes SOC Analyst-ready skills  
+- 🔹 Clean formatting with Markdown and PDF export  
+- 🔹 Updated regularly to match live learning progress
+
+📂 [View Résumé ›](https://github.com/CyberSecFale/cybersecurity-portfolio/blob/main/resume.md)
+
+---
+
+## 💡 Skills Summary
+
+| Domain | Examples |
+|--------|----------|
+| **SOC Operations** | SIEM, Log Review, Incident Journaling, GRC |
+| **Network Defense** | TCP/IP, Routing, Firewalls, VLANs |
+| **Secure Coding** | Web Security, WordPress CMS, SSL/TLS |
+| **Linux Admin** | Bash, Permissions, File Recovery |
+| **SQL & Filtering** | Pattern matching, anomaly isolation |
+| **Business Focus** | Small business security consulting, audit documentation |
+
+---
+
+## 📬 Contact
+
+Let’s connect:
+
+- 🌐 [FALE Network Solutions](https://falenetwork.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/c21bobbyfalero)
+- 📧 Email: fale@falenetwork.com
+
+---
+
+> _"Study while others are sleeping. Work while others are loafing. Prepare while others are playing. Dream while others are wishing."_  
+> — **William Arthur Ward**
 
 Contact
 Feel free to reach out to me on LinkedIn or via email at bobby.falero@gmail.com.
