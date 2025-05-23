@@ -48,7 +48,7 @@ These hands-on projects reflect real SOC-level skills used in entry-level analys
 | 🧮 [SQL Security Filters](projects/sql-filters.md) | Applied SQL queries to isolate risky login patterns and account abuse scenarios. |
 | 🧪 [Vulnerability Assessment](projects/vulnerability-assessment.md) | Evaluated risk profile and weaknesses for a fictional business environment. |
 | 🎣 [Incident Handler’s Journal](projects/incident-journal.md) | Tracked a simulated phishing attack using real IR journaling techniques. |
-| 📄 [Resume](projects/resume.md) | A concise Markdown résumé outlining key skills, tools, and career focus. |
+📄 [Resume](https://github.com/CyberSecFale/resume.md/blob/main/Resume05212052321am.pdf)  |  A concise Markdown résumé outlining key skills, tools, and career focus.
 | 📄 [Download PDF Résumé](projects/resume-official.pdf) | Download formal PDF version of my résumé. |
 | 📄 [Professional Statement](projects/professional-statement.md) | Built with GitHub styling to reflect professionalism and personal vision. |
 
