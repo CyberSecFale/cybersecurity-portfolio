@@ -46,10 +46,8 @@ These hands-on projects reflect real SOC-level skills used in entry-level analys
 | 🧭 [Network Structure & Security Analysis](projects/network-analysis.md) | Mapped LAN architecture, identified threat surfaces, and improved segmentation. |
 | 📁 [Linux File Permissions](projects/linux-permission.md) | Used `chmod`, `ls`, and `chown` to investigate and restrict improper access. |
 | 🧮 [SQL Security Filters](projects/sql-filters.md) | Applied SQL queries to isolate risky login patterns and account abuse scenarios. |
-| 🧪 [Vulnerability Assessment](projects/vulnerability-assessment.md) | Evaluated risk profile and weaknesses for a fictional business environment. |
+| 🧪 [Vulnerability Assessment](projects/vulnerability-assessment.md) | Evaluated risk profile and weaknesses for a fictional business environment. |D
 | 🎣 [Incident Handler’s Journal](projects/incident-journal.md) | Tracked a simulated phishing attack using real IR journaling techniques. |
-📄 [Resume](https://github.com/CyberSecFale/resume.md/blob/main/Resume05212052321am.pdf)  |  A concise Markdown résumé outlining key skills, tools, and career focus.
-| 📄 [Download PDF Résumé](projects/resume-official.pdf) | Download formal PDF version of my résumé. |
 | 📄 [Professional Statement](projects/professional-statement.md) | Built with GitHub styling to reflect professionalism and personal vision. |
 
 ✅ [View the full project folder »](https://github.com/CyberSecFale/cybersecurity-portfolio/tree/main/projects)
