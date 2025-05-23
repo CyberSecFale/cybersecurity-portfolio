@@ -16,11 +16,11 @@ This portfolio showcases my real-world cybersecurity projects, including threat 
 
 ## 🧭 Quick Navigation
 
-- [🔍 About Me](#about-me)
-- [🧪 Projects](#projects)
-- [📜 Certifications](#certifications)
-- [📄 Résumé](#résumé)
-- [📬 Contact](#contact)
+- [👨‍💻 About Me](#-about-me)
+- [🧪 Projects](#-projects)
+- [📜 Certifications](#-certifications)
+- [📄 Résumé](#-r%C3%A9sum%C3%A9)
+- [📬 Contact](#-contact)
 
 ---
 
