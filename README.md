@@ -19,7 +19,7 @@ This portfolio showcases my real-world cybersecurity projects, including threat 
 - [👨‍💻 About Me](#-about-me)
 - [🧪 Projects](#-projects)
 - [📜 Certifications](#-certifications)
-- [📄 Résumé](#-r%C3%A9sum%C3%A9)
+- 📄 [Résumé](https://github.com/CyberSecFale/resume.md/blob/main/README.md)
 - [📬 Contact](#-contact)
 
 ---
