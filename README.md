@@ -53,6 +53,36 @@ These hands-on projects reflect real SOC-level skills used in entry-level analys
 
 ✅ [View the full project folder »](https://github.com/CyberSecFale/cybersecurity-portfolio/tree/main/projects)
 
+### 📌 Selected Projects
+
+- 🔐 [Security Audit](projects/security-audit.md)  
+  Internal audit simulation for a small business. Identified risk factors, misconfigurations, and logged remediation notes.
+
+- 🔎 [Network Structure & Security Analysis](projects/network-analysis.md)  
+  Simulated analysis of a basic LAN for structure, segmentation, and threats.
+
+- 🔒 [Linux File Permissions](projects/linux-permission.md)  
+  Used `chmod`, `chown`, and `ls` to understand user access roles in a secured folder.
+
+- 🧮 [SQL Filters for Security Queries](projects/sql-filters.md)  
+  Built SQL queries to filter suspicious behavior, user privilege escalation, and threat indicators.
+
+- 📉 [Small Business Vulnerability Assessment](projects/vulnerability-assessment.md)  
+  Wrote assessment summary for a fictional small business, based on Nessus-style findings and mitigation advice.
+
+- 📘 [Incident Handler’s Journal](projects/incident-journal.md)  
+  Logged a fictional phishing alert scenario. Tracked response steps, severity, and remediation.
+
+- 📄 [Parsing a Text File in a Security Scenario](projects/text-parsing.md)  
+  Imported and analyzed raw logs to extract actionable incident data in a real-world SOC simulation.
+
+- 📝 [Professional Statement](projects/professional-statement.md)  
+  A narrative written in my own voice, describing my mission, skills, and vision in cybersecurity.
+
+- 📂 [Résumé](projects/resume.md)  
+  Updated regularly, includes core skills, certifications, and tools used.
+
+
 ---
 
 ## 📜 Certifications
