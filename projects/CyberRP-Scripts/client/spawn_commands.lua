@@ -52,3 +52,17 @@ RegisterCommand("spawn_impala", function()
   local vehicle = CreateVehicle(hash, coords.x + 5, coords.y, coords.z, 0.0, true, false)
   SetVehicleNumberPlateText(vehicle, "LUIS64")
 end)
+
+-- 🟢 Welcome Message on Load
+Citizen.CreateThread(function()
+  Wait(2000) -- brief delay to avoid overlap
+  TriggerEvent("chat:addMessage", {
+    color = {0, 255, 125},
+    multiline = true,
+    args = {
+      "🟢 CyberWolf001",
+      "Welcome to La Familia RP — built by Bobby [Abbiu] F∀LERO of FaleNetwork.com"
+    }
+  })
+end)
+
