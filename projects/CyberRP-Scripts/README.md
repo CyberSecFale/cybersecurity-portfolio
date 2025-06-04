@@ -77,6 +77,19 @@ CyberRP-Scripts/
 
 📄 License
 This project is licensed under the MIT License.
+See the project README.md for additional author attribution and fair-use guidance related to commercial use of derivative works.
+
+---
+🔖 Attribution & Fair Use Notice
+
+This module was developed by Bobby Falero (CyberWolf001) as part of the CyberRP immersive accessory series. All enhancements and forks are welcomed under the MIT license.
+
+⚠️ If this module or a derivative becomes commercially integrated into a premium or large-scale platform (e.g., paid frameworks, VR integrations, etc.), public credit must be retained and clearly visible as:
+
+"Originally designed by Bobby Falero (CyberWolf001) / FⱯLE Network Solutions"
+
+This ensures creators can continue improving the work collaboratively while honoring its original author. Bobby reserves the right to use any improved public forks for his own work, whether personal or professional.
+
 You are free to use, modify, and redistribute with credit to:
 
 BOBBY [Abbiu] FⱯLERO
