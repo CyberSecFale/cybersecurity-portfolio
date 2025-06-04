@@ -1,35 +1,34 @@
--- config.lua for Shoes Module
-
+-- config.lua for Shoes Module (Hybrid Format)
 Config = Config or {}
 
 Config.Shoes = {
-  classic = {
-    drawable = 1,
+  default = {
+    drawable = 0,
     texture = 0,
-    sound = "default"
+    sound = "default",
+    walkStyle = "move_m@casual@a",
+    palette = 0,
+    premium = false
   },
   redkicks = {
-    drawable = 2,
-    texture = 1,
-    sound = "urban_step"
-  },
-  bluestride = {
-    drawable = 3,
+    drawable = 1,
     texture = 0,
-    sound = "squeak"
-  },
-  stealthstep = {
-    drawable = 4,
-    texture = 2,
-    sound = "quiet"
+    sound = "urban_step",
+    walkStyle = "move_m@swagger",
+    palette = 0,
+    premium = false
   },
   flexpremium = {
     drawable = 5,
     texture = 3,
     sound = "premium_glide",
+    walkStyle = "move_m@hipster@a",
+    palette = 0,
     premium = true
   }
 }
 
--- fallback
-Config.Shoes.default = Config.Shoes.classic
+-- Optional: expose default and premium unlock command logic if needed
+Config.Shoes.commandName = "flexkicks"
+
+
