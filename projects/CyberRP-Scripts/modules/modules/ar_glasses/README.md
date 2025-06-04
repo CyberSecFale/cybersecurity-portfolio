@@ -24,4 +24,10 @@ This immersive accessory adds tactical gameplay and futuristic flair with intera
 - Fully plug-and-play for your `modules/` directory
 - Future support: NUI overlays, premium unlock checks, and easter egg lore
 
+- ---
+
+📄 License
+This project is licensed under the MIT License.
+See the project README.md for additional author attribution and fair-use guidance related to commercial use of derivative works.
+
 > Designed by **CyberWolf001** / FⱯLE Network Solutions
