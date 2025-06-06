@@ -40,15 +40,15 @@ This portfolio showcases my real-world cybersecurity projects, including threat 
 
 These hands-on projects reflect real SOC-level skills used in entry-level analyst roles.
 
-| 📁 **Project** | 📄 **Summary** |
-|---------------|----------------|
-| 🔐 [Security Audit](projects/security-audit.md) | Performed a vulnerability review and remediation plan for a simulated small business. |
-| 🧭 [Network Structure & Security Analysis](projects/network-analysis.md) | Mapped LAN architecture, identified threat surfaces, and improved segmentation. |
-| 📁 [Linux File Permissions](projects/linux-permission.md) | Used `chmod`, `ls`, and `chown` to investigate and restrict improper access. |
-| 🧮 [SQL Security Filters](projects/sql-filters.md) | Applied SQL queries to isolate risky login patterns and account abuse scenarios. |
-| 🧪 [Vulnerability Assessment](projects/vulnerability-assessment.md) | Evaluated risk profile and weaknesses for a fictional business environment. |D
-| 🎣 [Incident Handler’s Journal](projects/incident-journal.md) | Tracked a simulated phishing attack using real IR journaling techniques. |
-| 📄 [Professional Statement](projects/professional-statement.md) | Built with GitHub styling to reflect professionalism and personal vision. |
+| 📁 **Project**                                                      | 📄 **Summary**                                                                                     |
+|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 🔐 [Security Audit](projects/security-audit.md)                     | Performed a vulnerability review and remediation plan for a simulated small business.               |
+| 🧭 [Network Structure & Security Analysis](projects/network-analysis.md) | Mapped LAN architecture, identified threat surfaces, and improved segmentation.                |
+| 📁 [Linux File Permissions](projects/linux-permission.md)            | Used `chmod`, `ls`, and `chown` to investigate and restrict improper access.                       |
+| 🧮 [SQL Security Filters](projects/sql-filters.md)                   | Applied SQL queries to isolate risky login patterns and account abuse scenarios.                    |
+| 🧪 [Vulnerability Assessment](projects/vulnerability-assessment.md)  | Evaluated risk profile and weaknesses for a fictional business environment.                         |
+| 🎣 [Incident Handler’s Journal](projects/incident-journal.md)        | Tracked a simulated phishing attack using real IR journaling techniques.                            |
+| 📄 [Professional Statement](projects/professional-statement.md)      | Built with GitHub styling to reflect professionalism and personal vision.                           |
 
 ✅ [View the full project folder »](https://github.com/CyberSecFale/cybersecurity-portfolio/tree/main/projects)
 
